@@ -1,6 +1,8 @@
 # feather-chat
 
-> 
+> This project followed the Generating an app guide: https://docs.feathersjs.com/guides/basics/generator.html#generating-the-application
+
+> `/config/default.json` needs github oauth creds
 
 ## About
 
